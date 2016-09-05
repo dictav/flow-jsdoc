@@ -11,7 +11,7 @@
     "nopt": "^3.0.3"
   },
   "repository": {
-    "url": "https://github.com/Kegsay/flow-jsdoc"
+    "url": "https://github.com/dictav/flow-jsdoc"
   },
   "devDependencies": {},
   "scripts": {
